@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plataforma Entel</string>
+    <string name="welcome_text">Bienvenido a Plataforma Entel</string>
+    <string name="continue_button">Continuar</string>
+</resources>
